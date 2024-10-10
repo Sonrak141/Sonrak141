@@ -7,7 +7,7 @@ Full Stack Developer
 Innovative optimized solution seeker, with a really big passion for web development. I'm mainly focusing on web development, but I am always looking to learn new things. Currently student for Game Development. / Buscador de soluciones innovadoras y optimizadas, con una gran pasión por el desarrollo web. Me estoy centrando principalmente en el desarrollo web, pero siempre estoy buscando aprender cosas nuevas. Actualmente estudiante de Desarrollo de Juegos.
 
 * 🌍  I'm based in Colombia
-* 🖥️  See my portfolio at [My Portfolio](http://cborrero094.wixsite.com/carlosborrerowd)
+* 🖥️  See my portfolio at [My Portfolio](https://charliedev.vercel.app)
 * ✉️  You can contact me at [cborrero094@gmail.com](mailto:cborrero094@gmail.com)
 * 🧠  I'm learning C# and C++
 
